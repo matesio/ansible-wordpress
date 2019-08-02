@@ -5,4 +5,4 @@
     - wordpress
     - mysql
     - php
-    - postfix
+   # - postfix
