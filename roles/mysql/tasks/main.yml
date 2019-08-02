@@ -8,7 +8,7 @@
     - python-mysqldb
 
 - name: Start the MySQL service
-  #ction: service name=mysql  enabled=yes state=started
+  #action: service name=mysql  enabled=yes state=started
   command: service mysql start 
 
 - name: Set root user password
